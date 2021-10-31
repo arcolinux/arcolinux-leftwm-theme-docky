@@ -1,1 +1,1 @@
-# Starwars: A leftwm configured theme
+# Docky: A leftwm configured theme
